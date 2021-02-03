@@ -1,6 +1,10 @@
 # DioSpaAngular
 
 
+lista de Animes 
+
+
+
 
 
 
@@ -10,5 +14,3 @@
 4) Crie em uma das páginas uma interação através da Interpolação e/ou utilizando Property Biding.
 5) Crie uma explicação sobre o que foi feito, esta explicação será inserida na plataforma junto com o link para o código no GitHub.
 6) Você poderá criar um vídeo demonstrativo da aplicação construída, e publicá-lo no YouTube, passando o link de acesso na plataforma. Este passo 6, não é obrigatório, mas entrará como um diferencial. 
-
-
